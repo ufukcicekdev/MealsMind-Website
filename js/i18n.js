@@ -4,6 +4,7 @@
       nav_features: "Features",
       nav_how: "How It Works",
       nav_privacy: "Privacy",
+      nav_terms: "Terms",
       nav_download: "Download",
 
       hero_title: 'Stop Wasting Food.<br>Start <span>Cooking Smart.</span>',
@@ -50,6 +51,7 @@
       nav_features: "Özellikler",
       nav_how: "Nasıl Çalışır",
       nav_privacy: "Gizlilik",
+      nav_terms: "Şartlar",
       nav_download: "İndir",
 
       hero_title: 'Gıda İsrafını Durdurun.<br><span>Akıllı Pişirin.</span>',
